@@ -3,6 +3,6 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/yigengjin/xiaobai.git
+git remote add origin https://github.com/yigengjin/hello_world.git
 git push -u origin main
                 
